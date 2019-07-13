@@ -1,0 +1,3 @@
+127.0.0.1 reddit.com
+127.0.0.1 youtube.com
+127.0.0.1 slickdeals.com
